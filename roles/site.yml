@@ -1,0 +1,8 @@
+---
+- name: homework
+  hosts: localhost
+  tasks:
+    - name: create text file
+      nchepurnenko.netology.text_file:
+        path: /tmp/file.txt
+        content: content for file

@@ -1,0 +1,3 @@
+---
+# tasks file for text_file_role
+- import_tasks: create_file.yml

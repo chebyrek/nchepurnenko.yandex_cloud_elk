@@ -1,0 +1,4 @@
+---
+# defaults file for text_file_role
+path: /tmp/test_file.txt
+content: this file was created for test custom ansible module 
